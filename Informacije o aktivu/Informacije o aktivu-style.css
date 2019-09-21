@@ -1,0 +1,55 @@
+body{background-image: url(lov.jpg)}
+.naslov{color:green;
+font-family: cursive;
+font-size: 40px;
+letter-spacing: 2px;
+padding-left: 1cm;
+opacity: 100;
+text-align: center
+}
+
+
+.kocka{background-color: white;
+    border: solid 2px green;
+    opacity: 0.9;
+}
+
+.ikona1{float: right;
+height: 75px;
+padding-right: -3cm;
+position: fixed;
+bottom: 3.5cm;
+right: 0.3cm
+}
+.ikona2{
+    float: right;
+    padding-top: 10cm;
+    padding-right: -1cm;
+    position: fixed;
+right: 0cm;
+bottom: 2cm
+}
+
+.ikona3{float: right;
+    height: 75px;
+    padding-right: -3cm;
+    position: fixed;
+    bottom: 0cm;
+    right: -0.1cm;
+}
+.tekst1{
+ font-family: Arial, 'Times New Roman', Times, serif, sans-serif;
+font-style: italic;
+font-weight: 100;
+text-align: justify;
+ letter-spacing: 2px
+ 
+}
+
+.tekst1{
+    text-align: center
+}
+
+.brate{
+    
+}

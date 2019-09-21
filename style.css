@@ -1,0 +1,132 @@
+h1 {color: green}
+
+
+body {background-color: #AF9F4C;
+      background-image: url(lov.jpg)
+    }
+body{
+margin: 0;
+padding: 0;
+}
+body{   
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    }
+    .main{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%)
+    }
+input{
+    border: 3px solid #32e17c;
+    height: 30px;
+    width: 240px;
+border-radius: 50px;
+padding: 0px 10px;
+}
+
+
+
+
+.naslov {font-size: 50px; 
+         padding-left: 14cm;
+         padding-top: -2cm;
+         text-shadow: 2px 3px brown;
+         letter-spacing: 1px
+
+}
+.i {float: right}
+
+.uvod {color: green;
+       font-size: 38px;
+       font-family: garamond;
+    padding-left: 19.5cm;
+    text-shadow: 1px 2px brown;
+}
+
+.topnav {background-color: coral
+    ;
+    overflow: hidden;
+    top: 0px;
+    position: absolute
+}
+
+.topnav a{
+    float: left;
+    color: green;
+    text-align: center;
+    padding: 8px 10px;
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+
+.topnav a:hover {
+background-color: yellow;
+color: green
+
+}
+
+.face {background-color: brown;
+      padding: 10px;
+      margin-top: 10px;
+      margin-left: 90%
+    }
+    .kontejner{
+
+    text-align: center;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+    text-shadow: 2px 3px black;
+    letter-spacing: 1px
+
+}
+
+
+
+
+    
+
+
+
+
+
+ .kontejner span{
+        color: whitesmoke;
+        text-transform: uppercase;
+        display: block
+    }
+
+    .testk1{
+color: whitesmoke;
+font-size: 30px;
+letter-spacing: 8px;
+margin-bottom: 20px;
+position: relative;
+animation: text 3s 1;
+}
+
+
+@keyframes text {
+ 0% {
+color: black;
+margin-bottom: -40px;
+}
+30%{
+    letter-spacing: 25px;
+    margin-bottom: -40px;
+
+}
+
+85{
+letter: spacing 8px;
+margin-bottom: -40px}
+  
+
+
+    
